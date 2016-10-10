@@ -1,2 +1,1 @@
- // const
-export const PI = Math.PI;
+import PI from '../constants/const.js';
